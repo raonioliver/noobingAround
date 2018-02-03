@@ -33,7 +33,6 @@ function draw(){
     }
 
     if(mouseIsPressed && button.inRange()){
-        console.log(degraus.value);
         button.isClicked = true;
 
     };
