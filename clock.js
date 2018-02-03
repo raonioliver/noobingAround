@@ -1,6 +1,6 @@
 function Clock (){
     this.radius = 0;
-    var acc = 3;
+    var acc = 1.8;
     this.accFactor = 0.1 * acc;
 
     this.r = 100;
